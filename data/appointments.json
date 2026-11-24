@@ -1,0 +1,12 @@
+[
+  {
+    "appointmentId": "APT-29D16B",
+    "patientName": "Imran Baloch",
+    "phone": "0320-0800438",
+    "appointmentType": "OPD Clinic Consultation",
+    "preferredDate": "2026-11-24",
+    "timeSlot": "09:00 AM – 11:00 AM",
+    "notes": "OPD checkup and lab review",
+    "bookedAt": "2026-11-24T09:45:26.711Z"
+  }
+]

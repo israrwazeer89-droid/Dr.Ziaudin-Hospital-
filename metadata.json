@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Ziauddin Hospital – Outreach Medical Services, Khuzdar",
+  "description": "Quality Healthcare and Laboratory Services in Khuzdar. Laboratory Pick-Up Point, OPD Clinic, Referral Desk, Clinical Laboratory Services, and Outreach Medical Services at Suite #34, Sada Bahar Plaza, Near Civil Hospital, Khuzdar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
